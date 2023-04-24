@@ -1,0 +1,15 @@
+C:\AP\Modulo_1\16 - ControleMedicamentos\ControleMedicamentos.ConsoleApp\bin\Debug\net6.0\ControleMedicamentos.ConsoleApp.exe
+C:\AP\Modulo_1\16 - ControleMedicamentos\ControleMedicamentos.ConsoleApp\bin\Debug\net6.0\ControleMedicamentos.ConsoleApp.deps.json
+C:\AP\Modulo_1\16 - ControleMedicamentos\ControleMedicamentos.ConsoleApp\bin\Debug\net6.0\ControleMedicamentos.ConsoleApp.runtimeconfig.json
+C:\AP\Modulo_1\16 - ControleMedicamentos\ControleMedicamentos.ConsoleApp\bin\Debug\net6.0\ControleMedicamentos.ConsoleApp.dll
+C:\AP\Modulo_1\16 - ControleMedicamentos\ControleMedicamentos.ConsoleApp\bin\Debug\net6.0\ControleMedicamentos.ConsoleApp.pdb
+C:\AP\Modulo_1\16 - ControleMedicamentos\ControleMedicamentos.ConsoleApp\obj\Debug\net6.0\ControleMedicamentos.ConsoleApp.csproj.AssemblyReference.cache
+C:\AP\Modulo_1\16 - ControleMedicamentos\ControleMedicamentos.ConsoleApp\obj\Debug\net6.0\ControleMedicamentos.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\AP\Modulo_1\16 - ControleMedicamentos\ControleMedicamentos.ConsoleApp\obj\Debug\net6.0\ControleMedicamentos.ConsoleApp.AssemblyInfoInputs.cache
+C:\AP\Modulo_1\16 - ControleMedicamentos\ControleMedicamentos.ConsoleApp\obj\Debug\net6.0\ControleMedicamentos.ConsoleApp.AssemblyInfo.cs
+C:\AP\Modulo_1\16 - ControleMedicamentos\ControleMedicamentos.ConsoleApp\obj\Debug\net6.0\ControleMedicamentos.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\AP\Modulo_1\16 - ControleMedicamentos\ControleMedicamentos.ConsoleApp\obj\Debug\net6.0\ControleMedicamentos.ConsoleApp.dll
+C:\AP\Modulo_1\16 - ControleMedicamentos\ControleMedicamentos.ConsoleApp\obj\Debug\net6.0\refint\ControleMedicamentos.ConsoleApp.dll
+C:\AP\Modulo_1\16 - ControleMedicamentos\ControleMedicamentos.ConsoleApp\obj\Debug\net6.0\ControleMedicamentos.ConsoleApp.pdb
+C:\AP\Modulo_1\16 - ControleMedicamentos\ControleMedicamentos.ConsoleApp\obj\Debug\net6.0\ControleMedicamentos.ConsoleApp.genruntimeconfig.cache
+C:\AP\Modulo_1\16 - ControleMedicamentos\ControleMedicamentos.ConsoleApp\obj\Debug\net6.0\ref\ControleMedicamentos.ConsoleApp.dll
